@@ -8,4 +8,5 @@ int main (){
 	printf("you are %d years old", age);
 	
 	return 0;
+	
 }
