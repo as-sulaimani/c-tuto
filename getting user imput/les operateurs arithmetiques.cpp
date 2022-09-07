@@ -2,10 +2,17 @@
 
 
 int main(){
-	
-	int x= 20 , y= 4, r;
-	r = x / y;
-	printf("%d", r);
+
+
+    int a, b, c;
+     printf("entrer num1: ");
+     scanf("%d",&a);
+     printf("entrer num2: ");
+     scanf("%d", &b);
+   
+     
+	c = a + b;
+	printf("%d + %d = %d\n", a, b ,c);
  
 
 	return 0;
