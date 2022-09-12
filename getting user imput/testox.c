@@ -6,6 +6,7 @@ int main()
     int i , j , k , L ;
     printf("donner les lingnes "); //pour saisir le nombre des lignes
     scanf("%d",&L);
+    
     for (i=1 ; i<=L ; i++){ //pour les lignes
         for ( j =1 ;j <= L-i ; j++){ //pour l'espace
             printf(" ");
