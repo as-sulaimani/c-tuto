@@ -1,7 +1,3 @@
-
-	
-/* Tri par insertion */
- 
 #include <stdio.h>
 #define SIZE 10
  
@@ -35,4 +31,9 @@ int main()
  
   return 0;
 }
+
+
+
+
+
 
